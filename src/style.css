@@ -4,4 +4,15 @@ body {
 h1 {
   text-align: center;
   color: darkcyan;
+  text-decoration: underline;
+}
+p {
+  background: burlywood;
+}
+a {
+  display: block;
+  text-decoration: none;
+}
+a:visited {
+  color: cornflowerblue;
 }
